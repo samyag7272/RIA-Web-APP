@@ -1,0 +1,6 @@
+{
+  "name": "RIA Advisory Services",
+  "description": "A comprehensive digital platform for SEBI Registered Investment Advisers featuring client onboarding, compliance disclosures, and personalized mutual fund recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
